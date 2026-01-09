@@ -1,16 +1,12 @@
-h1{
-    color: green;
+p{
+    text-align: center;
 }
-p {
-    color: rgb(130,200,15);
+a{
+    text-decoration: none;
 }
-button {
-    color: rgb(97,165,42);
-    background-color: white;
+#one{
+    font-family: Arial;
 }
-body {
-    background-color:rgb(97,165,42);
-} 
-button {
-    background-color:green;
-} 
+#two{
+    font-family: 'segoe ui';
+}
