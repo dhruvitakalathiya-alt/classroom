@@ -1,12 +1,13 @@
-p{
+*{
+    font-family:"TIME NEW ROMAN",serif; ;
+}
+h1{
     text-align: center;
+    text-transform: capitalize;
 }
-a{
-    text-decoration: none;
+#outer{
+    font-size: 25px;
 }
-#one{
-    font-family: Arial;
-}
-#two{
-    font-family: 'segoe ui';
+#inner{
+    font-size: 10px;
 }
